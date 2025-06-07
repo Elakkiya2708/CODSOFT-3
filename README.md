@@ -40,6 +40,12 @@ This project is a secure and customizable password generator built using Python.
 
 ---
 
+
+🔗 Live Demo
+> https://elakkiya2708.github.io/CODSOFT-3/
+
+---
+
 👩‍💻 Developed by:
 
 Elakkiya Varadharajan – Python Development Intern at CodSoft
