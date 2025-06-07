@@ -1,4 +1,4 @@
-# 🔐 CODSOFT_TASK03 – Password Generator (Python)
+# 🔐 CODSOFT_TASK_03 – Password Generator (Python)
 
 This project is a secure and customizable password generator built using Python. It allows users to generate strong random passwords with selectable character sets including uppercase, lowercase, digits, and special symbols. Developed as part of Task 3 for the CodSoft Python Development Internship.
 
